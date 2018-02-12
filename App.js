@@ -21,6 +21,7 @@ Ext.define('CustomApp', {
 
     _onIterationComboboxLoad: function() {
     	//Add New Component
+        //Add New Info again
     	var addNewConfig = {
 	    	xtype: 'rallyaddnew',
 	    	recordTypes: ['User Story', 'Defect'],
