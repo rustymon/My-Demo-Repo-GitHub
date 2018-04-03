@@ -3,8 +3,9 @@ Ext.define('CustomApp', {
     componentCls: 'app',
     launch: function() {
         //Write app code here
-	//This is a comment to show the GitHub integration
-        //This is another comment to show the GitHub integration
+	    //This is a comment to show the GitHub integration
+		//This is another comment to show the GitHub integration
+		//A third thing!
 
         this.iterationCombobox = this.add({
         	xtype: 'rallyiterationcombobox',
